@@ -2,3 +2,4 @@ ID
 Summary
 Description
 Pre conditions
+Steps
